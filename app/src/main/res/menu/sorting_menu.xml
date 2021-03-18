@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ascending"
+        android:title="@string/least_to_most_popular"
+        />
+
+    <item
+        android:id="@+id/descending"
+        android:title="@string/most_to_list_popular"
+        />
+
+</menu>

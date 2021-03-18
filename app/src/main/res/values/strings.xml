@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music Search App</string>
+    <string name="song_name">Song Name: , %1$s Artist: %2$s</string>
+    <string name="most_to_list_popular">Most to List popular</string>
+    <string name="least_to_most_popular">Least to Most popular</string>
+</resources>
